@@ -1,0 +1,11 @@
+ADSL:Assymtric Digital subscriber line خط المشترك الرقمي الغير متماثل
+وسمي غير متماثل لأن يوجد مرشح يفصل بين الترددات الهاتفية وموجات الانترنت 
+
+
+
+
+-Configuration of DSL 2750U:
+*For format a modem:press (WBS) for long time
+1-192.168.1.1
+
+
